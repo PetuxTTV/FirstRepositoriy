@@ -1,1 +1,6 @@
 # FirstRepositoriy
+# this file i've made to check for functions: Git add, Git commit, git commit -m, git push
+
+
+
+print ("hello world!")
